@@ -1,5 +1,5 @@
 import numpy as np
-import cv2.cv2 as cv2
+import cv2
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 
